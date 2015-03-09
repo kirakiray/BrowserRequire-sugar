@@ -64,7 +64,7 @@ src————br-sugar插件的源代码
 <script src="js/br.js"></script>
 <!--框架主文件-->
 <script src="js/br-sugar.js"></script>
-<!--ieload插件-->
+<!--sugar插件-->
 ```
 
 或采用异步方式添加，详情请查看[插件使用文档](https://github.com/kirakiray/BrowserRequire/wiki/插件使用和介绍)
