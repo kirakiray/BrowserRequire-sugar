@@ -4,6 +4,8 @@ Syntax sugar for BrowserRequire
 
 让BrowserRequire拥有jquery那样的语法。
 
+**注意：在BrowserRequire 1.2.0版本中已将该插件合并**
+
 ###优点
 
 使得BrowserRequire用起来更顺手。
